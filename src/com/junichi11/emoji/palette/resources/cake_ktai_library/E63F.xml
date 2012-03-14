@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor_palette_item PUBLIC "-//NetBeans//Editor Palette Item 1.1//EN"
+  "http://www.netbeans.org/dtds/editor-palette-item-1_1.dtd">
+<editor_palette_item version="1.0">
+        <body>
+        <![CDATA[
+                <?php $this->Ktai->emoji(0xe63f); // 曇り?>
+        ]]>
+        </body>
+
+        <icon16 urlvalue="com/junichi11/emoji/palette/resources/icons/E63F_16.png" />
+        <icon32 urlvalue="com/junichi11/emoji/palette/resources/icons/E63F_32.png" />
+   
+        <inline-description>
+                <display-name>曇り</display-name>
+                <tooltip><![CDATA[曇り]]></tooltip> 
+        </inline-description>
+               
+</editor_palette_item>
